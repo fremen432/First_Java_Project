@@ -4,6 +4,8 @@ package com.Clayton;
 import java.awt.*;
 import java.util.Date;
 
+//  following this tutorial (https://www.youtube.com/watch?v=eIrMbAQSU34)
+
 public class Main {
 //  'Public' means accessible from other parts of this program
 //  The "main" class in your program should always be "static"
